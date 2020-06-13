@@ -13,12 +13,22 @@
       "webhook_url": ""
     }
   ],
-  "pollMS": 10000,
+  "pollMS": 2000,
   "products": [
     {
       "region": "us",
       "domain": "com",
-      "pid": "BB3929"
-    }
+      "pid": "B28128"
+    },
+    {
+      "region": "uk",
+      "domain": "co.uk",
+      "pid": "B28128"
+    },
+    {
+      "region": "ca",
+      "domain": "ca",
+      "pid": "B28128"
+    },
   ]
 }
